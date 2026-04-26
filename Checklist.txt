@@ -120,3 +120,21 @@ STEP 6 COMPLETION CHECKLIST
 [ ] Design skills added
 [ ] Docs added
 
+
+STEP 7
+[ ] Users can register
+[ ] Users can login
+[ ] JWT/session auth works
+[ ] Roles defined
+[ ] Permissions defined
+[ ] Admin access restricted
+[ ] VIP access restricted
+[ ] Protected routes working
+[ ] Role-based UI working
+[ ] Passwords securely hashed
+[ ] Tokens managed properly
+[ ] API protected
+[ ] Audit logs implemented
+[ ] Auth agents added
+[ ] Auth skills added
+[ ] Docs created
