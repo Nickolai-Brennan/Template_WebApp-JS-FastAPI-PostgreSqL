@@ -36,3 +36,27 @@ STEP 2 COMPLETION CHECKLIST
 [ ] Docs mapped to onboarding and architecture
 [ ] Config files defined
 [ ] Domain ownership clear
+
+STEP 3
+[ ] Project intake captured
+[ ] Stack verified
+[ ] AI Control Layer created
+[ ] App Build Layer created
+[ ] Support Layer created
+[ ] Agents mapped
+[ ] Skills mapped
+[ ] Instructions layered
+[ ] Workflows connected
+[ ] Prompts added
+[ ] Evals created
+[ ] Scripts added
+[ ] Docs created
+[ ] Config added
+[ ] Frontend scaffolded
+[ ] Backend scaffolded
+[ ] Database scaffolded
+[ ] API scaffolded
+[ ] Tests scaffolded
+[ ] Development loop defined
+[ ] Review loop defined
+[ ] Deployment loop defined
