@@ -175,3 +175,22 @@ STEP 9
 [ ] Search agents added
 [ ] Recommendation skills added
 [ ] Docs created
+
+
+Step 10
+[ ] Content calendar schema created
+[ ] Social integrations schema created
+[ ] Campaign schema created
+[ ] Social size chart schema created
+[ ] Calendar routes built
+[ ] Social account routes built
+[ ] Campaign routes built
+[ ] Social post scheduler built
+[ ] Campaign planner built
+[ ] Content calendar page built
+[ ] Publishing queue built
+[ ] Social metrics dashboard built
+[ ] Social size chart page built
+[ ] Provider modules added
+[ ] Docs created
+[ ] Social publishing review completed
