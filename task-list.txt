@@ -168,3 +168,29 @@ T-138 Build sponsor revenue tracking
 T-139 Add payment security checks
 T-140 Create payment docs
 T-141 Run Step 8 review
+
+Step 9
+T-142 Create search index table
+T-143 Create search query log table
+T-144 Create user behavior table
+T-145 Create user preferences table
+T-146 Create recommendation table
+T-147 Create saved posts table
+T-148 Build search indexing service
+T-149 Build search routes
+T-150 Build search suggestions
+T-151 Build advanced search filters
+T-152 Build search ranking service
+T-153 Build search page
+T-154 Build search result cards
+T-155 Build filter sidebar
+T-156 Build personalized feed logic
+T-157 Build recommendation scoring
+T-158 Build related posts component
+T-159 Build trending now component
+T-160 Build saved posts feature
+T-161 Build search analytics dashboard
+T-162 Build recommendation insights dashboard
+T-163 Add privacy controls
+T-164 Add search docs
+T-165 Run Step 9 review
