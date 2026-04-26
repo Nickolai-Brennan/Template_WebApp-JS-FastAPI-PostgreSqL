@@ -47,3 +47,19 @@ T-027 Create frontend routes
 T-028 Create base layout
 T-029 Connect frontend to API
 T-030 Run first full review
+
+T-031 Create instruction starter files
+T-032 Create repo Copilot instruction file
+T-033 Create sub-agent files
+T-034 Create runtime agent files
+T-035 Create skill SKILL.md files
+T-036 Create workflow files
+T-037 Create prompt files
+T-038 Create eval JSON files
+T-039 Create config files
+T-040 Create setup scripts
+T-041 Create docs starters
+T-042 Create app placeholder README files
+T-043 Verify file tree
+T-044 Run setup script
+T-045 Update changelog
