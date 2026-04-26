@@ -60,3 +60,20 @@ STEP 3
 [ ] Development loop defined
 [ ] Review loop defined
 [ ] Deployment loop defined
+
+STEP 4
+[ ] All starter folders created
+[ ] Instruction files drafted
+[ ] Repo Copilot instructions drafted
+[ ] Sub-agent templates created
+[ ] Runtime agent templates created
+[ ] Skill templates created
+[ ] Workflows drafted
+[ ] Prompts drafted
+[ ] Eval files drafted
+[ ] Config files drafted
+[ ] Scripts drafted
+[ ] Docs drafted
+[ ] App placeholder files added
+[ ] Setup script available
+[ ] Changelog started
