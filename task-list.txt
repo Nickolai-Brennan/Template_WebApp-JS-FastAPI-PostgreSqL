@@ -63,3 +63,35 @@ T-042 Create app placeholder README files
 T-043 Verify file tree
 T-044 Run setup script
 T-045 Update changelog
+
+STEP 5 
+T-046 Create CMS schema
+T-047 Create post/category/tag tables
+T-048 Create media table
+T-049 Create social embeds table
+T-050 Create affiliate tables
+T-051 Create sponsor tables
+T-052 Create newsletter tables
+T-053 Create VIP subscription tables
+T-054 Create analytics event tables
+T-055 Create SEO report tables
+T-056 Create CMS backend models
+T-057 Create CMS backend schemas
+T-058 Create CMS backend routes
+T-059 Create admin dashboard routes
+T-060 Create analytics tracking endpoints
+T-061 Create public blog index page
+T-062 Create article detail page
+T-063 Create content templates
+T-064 Create WYSIWYG post editor
+T-065 Create admin dashboard layout
+T-066 Create marketing dashboard
+T-067 Create advertising dashboard
+T-068 Create SEO dashboard
+T-069 Create keyword/tag reports
+T-070 Create affiliate manager
+T-071 Create sponsor manager
+T-072 Create newsletter manager
+T-073 Create VIP subscription manager
+T-074 Add CMS docs
+T-075 Run Step 5 review
