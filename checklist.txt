@@ -154,3 +154,24 @@ STEP 8
 [ ] Agents added
 [ ] Skills added
 [ ] Docs created
+
+STEP 9
+[ ] Search index created
+[ ] Basic search works
+[ ] Advanced search works
+[ ] Filters work
+[ ] Sort options work
+[ ] Search suggestions work
+[ ] Search analytics tracked
+[ ] User behavior tracked
+[ ] User preferences stored
+[ ] Personalized feed works
+[ ] Related posts work
+[ ] Trending posts work
+[ ] Saved posts work
+[ ] Recommendation scoring works
+[ ] Admin search insights available
+[ ] Privacy controls defined
+[ ] Search agents added
+[ ] Recommendation skills added
+[ ] Docs created
