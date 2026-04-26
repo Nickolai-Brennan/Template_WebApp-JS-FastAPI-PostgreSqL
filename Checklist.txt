@@ -1,0 +1,38 @@
+STEP 1 COMPLETION CHECKLIST
+
+[ ] .github/copilot-instructions.md added
+[ ] .github/agents/ added
+[ ] agents/ added
+[ ] skills/ added
+[ ] instructions/ added
+[ ] workflows/ added
+[ ] prompts/ added
+[ ] templates/ added
+[ ] evals/ added
+[ ] scripts/ added
+[ ] docs/ added
+[ ] config/ added
+[ ] README files added where needed
+[ ] Naming conventions applied
+[ ] Folder purpose documented
+
+STEP 2 COMPLETION CHECKLIST
+
+[ ] Project stack identified
+[ ] Project type identified
+[ ] Frontend folder added
+[ ] Backend folder added
+[ ] Database folder added
+[ ] API folder added
+[ ] Tests folder added
+[ ] Agents mapped to domains
+[ ] Skills mapped to agents
+[ ] Instructions mapped to domains
+[ ] Workflows mapped to build phases
+[ ] Prompts mapped to repeatable tasks
+[ ] Templates mapped to project layers
+[ ] Evals mapped to quality checks
+[ ] Scripts mapped to setup/dev/test tasks
+[ ] Docs mapped to onboarding and architecture
+[ ] Config files defined
+[ ] Domain ownership clear
