@@ -122,3 +122,26 @@ T-097 Create admin dashboard style guide
 T-098 Add design-system-agent
 T-099 Add brand-guidelines-agent
 T-100 Run Step 6 review
+
+
+Step 7
+T-101 Create user table
+T-102 Create roles system
+T-103 Create permissions system
+T-104 Create auth models
+T-105 Create auth schemas
+T-106 Create auth routes
+T-107 Implement JWT tokens
+T-108 Implement password hashing
+T-109 Create login page
+T-110 Create register page
+T-111 Create AuthContext
+T-112 Create ProtectedRoute component
+T-113 Create RoleGate component
+T-114 Add VIP access logic
+T-115 Add admin guards
+T-116 Add permission guards
+T-117 Add audit logging
+T-118 Create auth docs
+T-119 Run security review
+T-120 Run Step 7 review
