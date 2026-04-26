@@ -145,3 +145,26 @@ T-117 Add audit logging
 T-118 Create auth docs
 T-119 Run security review
 T-120 Run Step 7 review
+
+Step 8
+T-121 Create customer table
+T-122 Create payment table
+T-123 Create subscription plans table
+T-124 Create subscriptions table
+T-125 Create invoice table
+T-126 Create affiliate tracking tables
+T-127 Create revenue tables
+T-128 Integrate Stripe SDK
+T-129 Create payment routes
+T-130 Create subscription routes
+T-131 Create billing routes
+T-132 Create webhook handler
+T-133 Build checkout page
+T-134 Build pricing table
+T-135 Build billing dashboard
+T-136 Build revenue dashboard
+T-137 Build affiliate tracking logic
+T-138 Build sponsor revenue tracking
+T-139 Add payment security checks
+T-140 Create payment docs
+T-141 Run Step 8 review
