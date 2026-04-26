@@ -32,3 +32,67 @@ docs/
   environment-setup.md
   dev-verification-checklist.md
 ```
+
+```text
+agent-skills/
+├── 01-planning-agent/
+├── 02-stack-architect-agent/
+├── 03-repo-setup-agent/
+├── 04-backend-agent/
+├── 05-frontend-agent/
+├── 06-database-agent/
+├── 07-api-agent/
+├── 08-ui-ux-agent/
+├── 09-marketing-agent/
+├── 10-seo-agent/
+├── 11-content-agent/
+├── 12-social-agent/
+├── 13-content-calendar-agent/
+├── 14-social-media-integration-agent/
+├── 15-campaign-planner-agent/
+├── 16-social-size-chart-agent/
+├── 17-design-system-agent/
+├── 18-analytics-agent/
+├── 19-monetization-agent/
+├── 20-workflow-builder-agent/
+├── 21-prompt-registry-agent/
+├── 22-data-ai-agent/
+├── 23-task-manager-agent/
+├── 24-cleanup-agent/
+└── 25-orchestrator-agent/
+```
+```
+IDEA
+→ Planning Agent
+→ Stack Architect Agent
+→ Repo Setup Agent
+
+PROTOTYPE
+→ Database Agent
+→ Backend Agent
+→ API Agent
+→ Frontend Agent
+→ UI/UX Agent
+→ Design System Agent
+
+DEVELOP
+→ Data / AI Agent
+→ Content Calendar Agent
+→ Social Media Integration Agent
+→ Campaign Planner Agent
+→ Social Size Chart Agent
+→ Analytics Agent
+
+LAUNCH
+→ Marketing Agent
+→ SEO Agent
+→ Content Agent
+→ Social Agent
+→ Monetization Agent
+
+SCALE
+→ Workflow Builder Agent
+→ Prompt Registry Agent
+→ Task Manager Agent
+→ Cleanup Agent
+```
