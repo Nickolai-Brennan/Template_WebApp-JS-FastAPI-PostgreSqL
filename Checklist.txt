@@ -138,3 +138,19 @@ STEP 7
 [ ] Auth agents added
 [ ] Auth skills added
 [ ] Docs created
+
+STEP 8
+[ ] Payments work
+[ ] Stripe integrated
+[ ] Subscriptions active
+[ ] VIP access tied to billing
+[ ] Billing dashboard working
+[ ] Invoices generated
+[ ] Affiliate tracking working
+[ ] Sponsor revenue tracked
+[ ] Revenue dashboard working
+[ ] Webhooks handled correctly
+[ ] Payment security enforced
+[ ] Agents added
+[ ] Skills added
+[ ] Docs created
