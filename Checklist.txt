@@ -77,3 +77,24 @@ STEP 4
 [ ] App placeholder files added
 [ ] Setup script available
 [ ] Changelog started
+
+STEP 5 
+[ ] Blog posts supported
+[ ] Multiple article types supported
+[ ] Social media embeds supported
+[ ] Affiliate links supported
+[ ] Sponsor campaigns supported
+[ ] Newsletter signup supported
+[ ] VIP subscription plans supported
+[ ] Admin dashboard available
+[ ] Marketing dashboard available
+[ ] Advertising dashboard available
+[ ] SEO dashboard available
+[ ] Keyword/tag reports available
+[ ] Traffic analytics available
+[ ] Click tracking available
+[ ] Social media stats available
+[ ] Role-based admin access defined
+[ ] CMS agents added
+[ ] CMS skills added
+[ ] Docs added
